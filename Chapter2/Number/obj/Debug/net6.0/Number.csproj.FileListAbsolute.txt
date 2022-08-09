@@ -1,0 +1,15 @@
+D:\C#\Chapter2\Number\bin\Debug\net6.0\Number.exe
+D:\C#\Chapter2\Number\bin\Debug\net6.0\Number.deps.json
+D:\C#\Chapter2\Number\bin\Debug\net6.0\Number.runtimeconfig.json
+D:\C#\Chapter2\Number\bin\Debug\net6.0\Number.dll
+D:\C#\Chapter2\Number\bin\Debug\net6.0\Number.pdb
+D:\C#\Chapter2\Number\obj\Debug\net6.0\Number.csproj.AssemblyReference.cache
+D:\C#\Chapter2\Number\obj\Debug\net6.0\Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Chapter2\Number\obj\Debug\net6.0\Number.AssemblyInfoInputs.cache
+D:\C#\Chapter2\Number\obj\Debug\net6.0\Number.AssemblyInfo.cs
+D:\C#\Chapter2\Number\obj\Debug\net6.0\Number.csproj.CoreCompileInputs.cache
+D:\C#\Chapter2\Number\obj\Debug\net6.0\Number.dll
+D:\C#\Chapter2\Number\obj\Debug\net6.0\refint\Number.dll
+D:\C#\Chapter2\Number\obj\Debug\net6.0\Number.pdb
+D:\C#\Chapter2\Number\obj\Debug\net6.0\Number.genruntimeconfig.cache
+D:\C#\Chapter2\Number\obj\Debug\net6.0\ref\Number.dll
