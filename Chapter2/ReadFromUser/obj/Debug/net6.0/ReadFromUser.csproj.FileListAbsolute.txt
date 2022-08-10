@@ -1,0 +1,15 @@
+D:\C#\Chapter2\ReadFromUser\bin\Debug\net6.0\ReadFromUser.exe
+D:\C#\Chapter2\ReadFromUser\bin\Debug\net6.0\ReadFromUser.deps.json
+D:\C#\Chapter2\ReadFromUser\bin\Debug\net6.0\ReadFromUser.runtimeconfig.json
+D:\C#\Chapter2\ReadFromUser\bin\Debug\net6.0\ReadFromUser.dll
+D:\C#\Chapter2\ReadFromUser\bin\Debug\net6.0\ReadFromUser.pdb
+D:\C#\Chapter2\ReadFromUser\obj\Debug\net6.0\ReadFromUser.csproj.AssemblyReference.cache
+D:\C#\Chapter2\ReadFromUser\obj\Debug\net6.0\ReadFromUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Chapter2\ReadFromUser\obj\Debug\net6.0\ReadFromUser.AssemblyInfoInputs.cache
+D:\C#\Chapter2\ReadFromUser\obj\Debug\net6.0\ReadFromUser.AssemblyInfo.cs
+D:\C#\Chapter2\ReadFromUser\obj\Debug\net6.0\ReadFromUser.csproj.CoreCompileInputs.cache
+D:\C#\Chapter2\ReadFromUser\obj\Debug\net6.0\ReadFromUser.dll
+D:\C#\Chapter2\ReadFromUser\obj\Debug\net6.0\refint\ReadFromUser.dll
+D:\C#\Chapter2\ReadFromUser\obj\Debug\net6.0\ReadFromUser.pdb
+D:\C#\Chapter2\ReadFromUser\obj\Debug\net6.0\ReadFromUser.genruntimeconfig.cache
+D:\C#\Chapter2\ReadFromUser\obj\Debug\net6.0\ref\ReadFromUser.dll

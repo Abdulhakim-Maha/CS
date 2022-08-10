@@ -1,0 +1,15 @@
+D:\C#\Chapter2\Formatting\bin\Debug\net6.0\Formatting.exe
+D:\C#\Chapter2\Formatting\bin\Debug\net6.0\Formatting.deps.json
+D:\C#\Chapter2\Formatting\bin\Debug\net6.0\Formatting.runtimeconfig.json
+D:\C#\Chapter2\Formatting\bin\Debug\net6.0\Formatting.dll
+D:\C#\Chapter2\Formatting\bin\Debug\net6.0\Formatting.pdb
+D:\C#\Chapter2\Formatting\obj\Debug\net6.0\Formatting.csproj.AssemblyReference.cache
+D:\C#\Chapter2\Formatting\obj\Debug\net6.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Chapter2\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfoInputs.cache
+D:\C#\Chapter2\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfo.cs
+D:\C#\Chapter2\Formatting\obj\Debug\net6.0\Formatting.csproj.CoreCompileInputs.cache
+D:\C#\Chapter2\Formatting\obj\Debug\net6.0\Formatting.dll
+D:\C#\Chapter2\Formatting\obj\Debug\net6.0\refint\Formatting.dll
+D:\C#\Chapter2\Formatting\obj\Debug\net6.0\Formatting.pdb
+D:\C#\Chapter2\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
+D:\C#\Chapter2\Formatting\obj\Debug\net6.0\ref\Formatting.dll
