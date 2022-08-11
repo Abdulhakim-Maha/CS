@@ -1,0 +1,15 @@
+D:\C#\Chapter2\UsingNamespace\bin\Debug\net6.0\UsingNamespace.exe
+D:\C#\Chapter2\UsingNamespace\bin\Debug\net6.0\UsingNamespace.deps.json
+D:\C#\Chapter2\UsingNamespace\bin\Debug\net6.0\UsingNamespace.runtimeconfig.json
+D:\C#\Chapter2\UsingNamespace\bin\Debug\net6.0\UsingNamespace.dll
+D:\C#\Chapter2\UsingNamespace\bin\Debug\net6.0\UsingNamespace.pdb
+D:\C#\Chapter2\UsingNamespace\obj\Debug\net6.0\UsingNamespace.csproj.AssemblyReference.cache
+D:\C#\Chapter2\UsingNamespace\obj\Debug\net6.0\UsingNamespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Chapter2\UsingNamespace\obj\Debug\net6.0\UsingNamespace.AssemblyInfoInputs.cache
+D:\C#\Chapter2\UsingNamespace\obj\Debug\net6.0\UsingNamespace.AssemblyInfo.cs
+D:\C#\Chapter2\UsingNamespace\obj\Debug\net6.0\UsingNamespace.csproj.CoreCompileInputs.cache
+D:\C#\Chapter2\UsingNamespace\obj\Debug\net6.0\UsingNamespace.dll
+D:\C#\Chapter2\UsingNamespace\obj\Debug\net6.0\refint\UsingNamespace.dll
+D:\C#\Chapter2\UsingNamespace\obj\Debug\net6.0\UsingNamespace.pdb
+D:\C#\Chapter2\UsingNamespace\obj\Debug\net6.0\UsingNamespace.genruntimeconfig.cache
+D:\C#\Chapter2\UsingNamespace\obj\Debug\net6.0\ref\UsingNamespace.dll

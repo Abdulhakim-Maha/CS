@@ -1,0 +1,15 @@
+D:\C#\Chapter3\ConditionSelection\bin\Debug\net6.0\ConditionSelection.exe
+D:\C#\Chapter3\ConditionSelection\bin\Debug\net6.0\ConditionSelection.deps.json
+D:\C#\Chapter3\ConditionSelection\bin\Debug\net6.0\ConditionSelection.runtimeconfig.json
+D:\C#\Chapter3\ConditionSelection\bin\Debug\net6.0\ConditionSelection.dll
+D:\C#\Chapter3\ConditionSelection\bin\Debug\net6.0\ConditionSelection.pdb
+D:\C#\Chapter3\ConditionSelection\obj\Debug\net6.0\ConditionSelection.csproj.AssemblyReference.cache
+D:\C#\Chapter3\ConditionSelection\obj\Debug\net6.0\ConditionSelection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Chapter3\ConditionSelection\obj\Debug\net6.0\ConditionSelection.AssemblyInfoInputs.cache
+D:\C#\Chapter3\ConditionSelection\obj\Debug\net6.0\ConditionSelection.AssemblyInfo.cs
+D:\C#\Chapter3\ConditionSelection\obj\Debug\net6.0\ConditionSelection.csproj.CoreCompileInputs.cache
+D:\C#\Chapter3\ConditionSelection\obj\Debug\net6.0\ConditionSelection.dll
+D:\C#\Chapter3\ConditionSelection\obj\Debug\net6.0\refint\ConditionSelection.dll
+D:\C#\Chapter3\ConditionSelection\obj\Debug\net6.0\ConditionSelection.pdb
+D:\C#\Chapter3\ConditionSelection\obj\Debug\net6.0\ConditionSelection.genruntimeconfig.cache
+D:\C#\Chapter3\ConditionSelection\obj\Debug\net6.0\ref\ConditionSelection.dll
