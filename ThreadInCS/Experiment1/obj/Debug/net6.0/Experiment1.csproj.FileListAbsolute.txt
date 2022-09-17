@@ -1,0 +1,15 @@
+D:\C#\ThreadInCS\Experiment1\bin\Debug\net6.0\Experiment1.exe
+D:\C#\ThreadInCS\Experiment1\bin\Debug\net6.0\Experiment1.deps.json
+D:\C#\ThreadInCS\Experiment1\bin\Debug\net6.0\Experiment1.runtimeconfig.json
+D:\C#\ThreadInCS\Experiment1\bin\Debug\net6.0\Experiment1.dll
+D:\C#\ThreadInCS\Experiment1\bin\Debug\net6.0\Experiment1.pdb
+D:\C#\ThreadInCS\Experiment1\obj\Debug\net6.0\Experiment1.csproj.AssemblyReference.cache
+D:\C#\ThreadInCS\Experiment1\obj\Debug\net6.0\Experiment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ThreadInCS\Experiment1\obj\Debug\net6.0\Experiment1.AssemblyInfoInputs.cache
+D:\C#\ThreadInCS\Experiment1\obj\Debug\net6.0\Experiment1.AssemblyInfo.cs
+D:\C#\ThreadInCS\Experiment1\obj\Debug\net6.0\Experiment1.csproj.CoreCompileInputs.cache
+D:\C#\ThreadInCS\Experiment1\obj\Debug\net6.0\Experiment1.dll
+D:\C#\ThreadInCS\Experiment1\obj\Debug\net6.0\refint\Experiment1.dll
+D:\C#\ThreadInCS\Experiment1\obj\Debug\net6.0\Experiment1.pdb
+D:\C#\ThreadInCS\Experiment1\obj\Debug\net6.0\Experiment1.genruntimeconfig.cache
+D:\C#\ThreadInCS\Experiment1\obj\Debug\net6.0\ref\Experiment1.dll

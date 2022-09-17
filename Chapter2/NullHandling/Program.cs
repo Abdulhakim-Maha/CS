@@ -1,4 +1,4 @@
-﻿int thisCannotBeNull = 5;
+﻿// int thisCannotBeNull = 5;
 // thisCannotBeNull = null; // compile error!
 
 int? thisCanbeNull = null;
