@@ -97,6 +97,7 @@ namespace Problem01
 			for ( int j = 0; j < numberOfThread; j++) { //(i*(MAX_VALUE/parallelParts)),((i + 1) * (MAX_VALUE/parallelParts))
 				threads[j] = new Thread(() => sum_of_thread[j] = sum((j * (max_value / numberOfThread)),((j + 1) * (max_value / numberOfThread))));
 				threads[j].Start();
+                Thread.Sleep(1);
 			}
 			for ( int i = 0; i < numberOfThread; i++){
 				threads[i].Join();
@@ -104,14 +105,14 @@ namespace Problem01
 			// Thread.join();
 			// Task.WaitAll(threads.ToArray());
 			// System.Console.WriteLine(threads.ToArray());
-			for (int f = 0; f < sum_of_thread.Length; f++)
-			{
-				System.Console.WriteLine(sum_of_thread[f]);
-			}
+			// for (int f = 0; f < sum_of_thread.Length; f++)
+			// {
+			// 	System.Console.WriteLine(sum_of_thread[f]);
+			// }
 			for(int i = 0; i< sum_of_thread.Length; i++){
 				Sum_Global += sum_of_thread[i];
 			}
-			System.Console.WriteLine(Sum_Global);
+			// System.Console.WriteLine(Sum_Global);
             // for (i = 0; i < 1000; i++)
             //     Console.WriteLine(sum());
             sw.Stop();
