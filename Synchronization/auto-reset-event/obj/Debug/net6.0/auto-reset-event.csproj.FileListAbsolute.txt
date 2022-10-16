@@ -1,0 +1,15 @@
+D:\C#\Synchronization\auto-reset-event\obj\Debug\net6.0\auto-reset-event.csproj.AssemblyReference.cache
+D:\C#\Synchronization\auto-reset-event\obj\Debug\net6.0\auto-reset-event.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Synchronization\auto-reset-event\obj\Debug\net6.0\auto-reset-event.AssemblyInfoInputs.cache
+D:\C#\Synchronization\auto-reset-event\obj\Debug\net6.0\auto-reset-event.AssemblyInfo.cs
+D:\C#\Synchronization\auto-reset-event\obj\Debug\net6.0\auto-reset-event.csproj.CoreCompileInputs.cache
+D:\C#\Synchronization\auto-reset-event\bin\Debug\net6.0\auto-reset-event.exe
+D:\C#\Synchronization\auto-reset-event\bin\Debug\net6.0\auto-reset-event.deps.json
+D:\C#\Synchronization\auto-reset-event\bin\Debug\net6.0\auto-reset-event.runtimeconfig.json
+D:\C#\Synchronization\auto-reset-event\bin\Debug\net6.0\auto-reset-event.dll
+D:\C#\Synchronization\auto-reset-event\bin\Debug\net6.0\auto-reset-event.pdb
+D:\C#\Synchronization\auto-reset-event\obj\Debug\net6.0\auto-reset-event.dll
+D:\C#\Synchronization\auto-reset-event\obj\Debug\net6.0\refint\auto-reset-event.dll
+D:\C#\Synchronization\auto-reset-event\obj\Debug\net6.0\auto-reset-event.pdb
+D:\C#\Synchronization\auto-reset-event\obj\Debug\net6.0\auto-reset-event.genruntimeconfig.cache
+D:\C#\Synchronization\auto-reset-event\obj\Debug\net6.0\ref\auto-reset-event.dll

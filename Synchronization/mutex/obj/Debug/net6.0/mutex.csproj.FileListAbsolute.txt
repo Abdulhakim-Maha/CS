@@ -1,0 +1,15 @@
+D:\C#\Synchronization\mutex\obj\Debug\net6.0\mutex.csproj.AssemblyReference.cache
+D:\C#\Synchronization\mutex\obj\Debug\net6.0\mutex.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Synchronization\mutex\obj\Debug\net6.0\mutex.AssemblyInfoInputs.cache
+D:\C#\Synchronization\mutex\obj\Debug\net6.0\mutex.AssemblyInfo.cs
+D:\C#\Synchronization\mutex\obj\Debug\net6.0\mutex.csproj.CoreCompileInputs.cache
+D:\C#\Synchronization\mutex\bin\Debug\net6.0\mutex.exe
+D:\C#\Synchronization\mutex\bin\Debug\net6.0\mutex.deps.json
+D:\C#\Synchronization\mutex\bin\Debug\net6.0\mutex.runtimeconfig.json
+D:\C#\Synchronization\mutex\bin\Debug\net6.0\mutex.dll
+D:\C#\Synchronization\mutex\bin\Debug\net6.0\mutex.pdb
+D:\C#\Synchronization\mutex\obj\Debug\net6.0\mutex.dll
+D:\C#\Synchronization\mutex\obj\Debug\net6.0\refint\mutex.dll
+D:\C#\Synchronization\mutex\obj\Debug\net6.0\mutex.pdb
+D:\C#\Synchronization\mutex\obj\Debug\net6.0\mutex.genruntimeconfig.cache
+D:\C#\Synchronization\mutex\obj\Debug\net6.0\ref\mutex.dll

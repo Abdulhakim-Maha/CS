@@ -1,0 +1,15 @@
+D:\C#\Synchronization\manual-reset-event\obj\Debug\net6.0\manual-reset-event.csproj.AssemblyReference.cache
+D:\C#\Synchronization\manual-reset-event\obj\Debug\net6.0\manual-reset-event.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Synchronization\manual-reset-event\obj\Debug\net6.0\manual-reset-event.AssemblyInfoInputs.cache
+D:\C#\Synchronization\manual-reset-event\obj\Debug\net6.0\manual-reset-event.AssemblyInfo.cs
+D:\C#\Synchronization\manual-reset-event\obj\Debug\net6.0\manual-reset-event.csproj.CoreCompileInputs.cache
+D:\C#\Synchronization\manual-reset-event\bin\Debug\net6.0\manual-reset-event.exe
+D:\C#\Synchronization\manual-reset-event\bin\Debug\net6.0\manual-reset-event.deps.json
+D:\C#\Synchronization\manual-reset-event\bin\Debug\net6.0\manual-reset-event.runtimeconfig.json
+D:\C#\Synchronization\manual-reset-event\bin\Debug\net6.0\manual-reset-event.dll
+D:\C#\Synchronization\manual-reset-event\bin\Debug\net6.0\manual-reset-event.pdb
+D:\C#\Synchronization\manual-reset-event\obj\Debug\net6.0\manual-reset-event.dll
+D:\C#\Synchronization\manual-reset-event\obj\Debug\net6.0\refint\manual-reset-event.dll
+D:\C#\Synchronization\manual-reset-event\obj\Debug\net6.0\manual-reset-event.pdb
+D:\C#\Synchronization\manual-reset-event\obj\Debug\net6.0\manual-reset-event.genruntimeconfig.cache
+D:\C#\Synchronization\manual-reset-event\obj\Debug\net6.0\ref\manual-reset-event.dll

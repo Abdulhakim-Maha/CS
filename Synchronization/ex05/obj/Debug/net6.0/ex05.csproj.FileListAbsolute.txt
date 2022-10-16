@@ -1,0 +1,15 @@
+D:\C#\Synchronization\ex05\bin\Debug\net6.0\ex05.exe
+D:\C#\Synchronization\ex05\bin\Debug\net6.0\ex05.deps.json
+D:\C#\Synchronization\ex05\bin\Debug\net6.0\ex05.runtimeconfig.json
+D:\C#\Synchronization\ex05\bin\Debug\net6.0\ex05.dll
+D:\C#\Synchronization\ex05\bin\Debug\net6.0\ex05.pdb
+D:\C#\Synchronization\ex05\obj\Debug\net6.0\ex05.csproj.AssemblyReference.cache
+D:\C#\Synchronization\ex05\obj\Debug\net6.0\ex05.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Synchronization\ex05\obj\Debug\net6.0\ex05.AssemblyInfoInputs.cache
+D:\C#\Synchronization\ex05\obj\Debug\net6.0\ex05.AssemblyInfo.cs
+D:\C#\Synchronization\ex05\obj\Debug\net6.0\ex05.csproj.CoreCompileInputs.cache
+D:\C#\Synchronization\ex05\obj\Debug\net6.0\ex05.dll
+D:\C#\Synchronization\ex05\obj\Debug\net6.0\refint\ex05.dll
+D:\C#\Synchronization\ex05\obj\Debug\net6.0\ex05.pdb
+D:\C#\Synchronization\ex05\obj\Debug\net6.0\ex05.genruntimeconfig.cache
+D:\C#\Synchronization\ex05\obj\Debug\net6.0\ref\ex05.dll

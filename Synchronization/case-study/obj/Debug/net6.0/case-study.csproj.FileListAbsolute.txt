@@ -1,0 +1,15 @@
+D:\C#\Synchronization\case-study\bin\Debug\net6.0\case-study.exe
+D:\C#\Synchronization\case-study\bin\Debug\net6.0\case-study.deps.json
+D:\C#\Synchronization\case-study\bin\Debug\net6.0\case-study.runtimeconfig.json
+D:\C#\Synchronization\case-study\bin\Debug\net6.0\case-study.dll
+D:\C#\Synchronization\case-study\bin\Debug\net6.0\case-study.pdb
+D:\C#\Synchronization\case-study\obj\Debug\net6.0\case-study.csproj.AssemblyReference.cache
+D:\C#\Synchronization\case-study\obj\Debug\net6.0\case-study.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Synchronization\case-study\obj\Debug\net6.0\case-study.AssemblyInfoInputs.cache
+D:\C#\Synchronization\case-study\obj\Debug\net6.0\case-study.AssemblyInfo.cs
+D:\C#\Synchronization\case-study\obj\Debug\net6.0\case-study.csproj.CoreCompileInputs.cache
+D:\C#\Synchronization\case-study\obj\Debug\net6.0\case-study.dll
+D:\C#\Synchronization\case-study\obj\Debug\net6.0\refint\case-study.dll
+D:\C#\Synchronization\case-study\obj\Debug\net6.0\case-study.pdb
+D:\C#\Synchronization\case-study\obj\Debug\net6.0\case-study.genruntimeconfig.cache
+D:\C#\Synchronization\case-study\obj\Debug\net6.0\ref\case-study.dll
